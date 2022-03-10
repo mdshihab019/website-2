@@ -6,28 +6,55 @@
         height: 40px;
         width: 105px;
         margin-left: 90px;
-        margin-top: 45px;
+        margin-top: 8px;
     }
     .box{
         height: 50px;
         width: 680px;
         margin-left: 100px;
-        margin-top: 45px;
+        margin-top: 8px;
     }
     .soppinglogo{
         height: 45px;
         width: 50;
-        margin-top: 45px;
+        margin-top: 8px;
         margin-left: 100px;
     }
     .signin{
         height: 45px;
         width: 80px;
-        margin-top: 45px;
+        margin-top: 8px;
         margin-left: 20px;
         border-radius: 6px;
     }
     .signin:hover{
-        background-color: rgb(13, 218, 64);
+        background-color: rgb(52, 240, 99);
     }
+    .লিস্ট{display: flex;
+        flex-direction: row;
+        margin-left: 140px;
+        font-size: 18px;
+        margin-top: 5px;
+    
+    }
+    .list:hover{
+        color: rgb(10, 158, 243);
+        transition: 3s;
+    }
+    .empypic{
+        margin-left: 585px;
+    }
+    .cartempty{
+        font-size: 35px;
+        margin-left: 545px;
+        margin-top: 2px;
+    }
+    .orderyet{
+        margin-left: 570px;
+        margin-top: 1px;
+    }
+    .continue{
+        margin-left: 590px;
+    }
+    
     

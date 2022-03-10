@@ -1,6 +1,7 @@
 .rokomaricover{
     height: px;
     width: 1350px;
+
 }
 .head{
 display: flex;
@@ -10,37 +11,56 @@ flex-direction: row;
     height: 40px;
     width: 105px;
     margin-left: 90px;
-    margin-top: 45px;
+    margin-top: 13px;
 }
 .box{
     height: 50px;
     width: 680px;
     margin-left: 100px;
-    margin-top: 45px;
+    margin-top: 13px;
 }
 .soppinglogo{
     height: 45px;
     width: 50;
-    margin-top: 45px;
+    margin-top: 13px;
     margin-left: 100px;
 }
 .signin{
     height: 45px;
     width: 80px;
-    margin-top: 45px;
+    margin-top: 13px;
     margin-left: 20px;
     border-radius: 6px;
 }
 .signin:hover{
-    background-color: rgb(13, 218, 64);
+    background-color: rgb(75, 253, 119);
 }
 .লিস্ট{display: flex;
     flex-direction: row;
     margin-left: 140px;
     font-size: 18px;
+    margin-top: 5px;
 
 }
+
+
 .list:hover{
     color: rgb(10, 158, 243);
     transition: 3s;
+}
+.লিস্টগুলো{
+    display: flex;
+    flex-direction: row;
+    font-size: 15px;
+    margin-left: 90px;
+    margin-top: 0px;
+
+}
+
+
+
+.lekhok:hover{
+    color: rgb(10, 158, 243);
+    transition: 3s;
+
 }
